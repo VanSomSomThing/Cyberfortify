@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(45, 56, 56, 0.95);
+    background-image: url(https://imgs.search.brave.com/1YS2eD5--NGzJNzrxaBuMcJA97yhn4bF5_SxethpnM8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI2OTE1/MTUuanBn);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: aqua;
+    font-family: "press Start 2p", "consolas", sans-serif;
+    background-color: rgb(45, 56, 56);
+    color: aqua;
+    font-family: "consolas", sans-serif;
+    font-style: oblique;
+    border-style:double;
+    border-width: 5px;
+    border-color: rgba(45, 56, 56, 0.95);
+    border-radius: 10px;
+    padding: 7px;
+    text-shadow: 2px 2px 0px grey;
+}
+h2{
+    background-color: rgb(45, 56, 56);
+    color: aquamarine;
+    font-family: "consolas", sans-serif;
+    font-style: oblique;
+    border-style:double;
+    border-width: 5px;
+    border-color: rgba(45, 56, 56, 0.95);
+    border-radius:10px;
+    padding: 7px;
+}
+p{
+    background-color: rgb(45, 56, 56);
+    color: aqua;
+    font-family: "consolas", sans-serif;
+    font-style: oblique;
+    border-style:double;
+    border-width: 5px;
+    border-color: rgba(45, 56, 56, 0.95);
+    border-radius: 10px;
+    padding: 7px;
+}
